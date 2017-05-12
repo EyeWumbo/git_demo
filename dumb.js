@@ -1,1 +1,1 @@
-edit_cwp
+alert("hello");
